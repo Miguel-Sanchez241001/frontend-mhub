@@ -1,0 +1,19 @@
+
+
+.Navbar{
+    background: black;
+    color: white;
+    display: block;
+    width: 100vw;
+  
+}
+
+.Superior{
+    display: flex;
+    width: 100vw;
+    flex-direction: column;
+    justify-content: space-between;
+ }
+ .superior-top{
+    display: inline;
+ }
